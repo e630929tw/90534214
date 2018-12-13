@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>夢想 ?</title>
+</head>
+
+<body background="image/網站背景.jpg">
+
+<img src="藍帶標誌.jpg">
+
+<font face="標楷體" color="#0000CC" size="10">巴黎藍帶廚藝學校</font>
+<a href="2nd.html">點我</a>
+
+</body>
+</html>

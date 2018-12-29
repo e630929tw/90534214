@@ -1,0 +1,31 @@
+﻿<html>
+<head>
+<title>夢想 ❤</title>
+<style>
+/* unvisited link */
+a:link {
+  color:#FFFFFF;
+}
+
+/* visited link */
+a:visited {
+  color:#FFFFFF;
+}
+
+/* mouse over link */
+a:hover {
+  color:#33CCFF;
+}
+
+/* selected link */
+a:active {
+  color:#33CCFF;
+} 
+</style>
+</head>
+<body background="image/背景1.jpg">
+<DIV style="width:300px;height:600px;text-align:center;line-height:600px;">
+</DIV>
+<a href="2nd.html" style="text-decoration:none"><center><font face="Goudy Stout標準" size="10">LE CORDON BLEU</a>
+</body>
+</html>
